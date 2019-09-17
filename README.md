@@ -40,5 +40,6 @@ copy of that is required as well. Contact NASA for more information and to
 request a copy.
 
 # Obtaining The Module
-The source code for the module is freely available to a restricted set of users.
-For more information and to request a copy please contact mnucci@ata-e.com.
+The source code for the module is freely available to the US Government under
+SBIR data rights. For more information and to request a copy please contact 
+mnucci@ata-e.com.
